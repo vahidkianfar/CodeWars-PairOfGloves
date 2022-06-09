@@ -5,6 +5,8 @@ public class PairOfGloves
 {
     public static int NumberOfPairs(string[] gloves)
     {
+        // Clever Solution=>  return gloves.GroupBy(item => item).Select(pair => pair.Count() / 2).Sum();
+        
         var duplicates = gloves.GroupBy(x => x)
             .Where(g => g.Count() > 1)
             .Select(y => new { Item = y.Key, Count = y.Count()/2 })
