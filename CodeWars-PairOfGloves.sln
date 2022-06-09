@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars-PairOfGloves", "CodeWars-PairOfGloves\CodeWars-PairOfGloves.csproj", "{15ADB0D8-70B7-4E1F-B256-ABC0F31B5637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairTests", "PairTests\PairTests.csproj", "{D3174725-64F5-4925-8163-E77409C45F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15ADB0D8-70B7-4E1F-B256-ABC0F31B5637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ADB0D8-70B7-4E1F-B256-ABC0F31B5637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ADB0D8-70B7-4E1F-B256-ABC0F31B5637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ADB0D8-70B7-4E1F-B256-ABC0F31B5637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3174725-64F5-4925-8163-E77409C45F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3174725-64F5-4925-8163-E77409C45F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3174725-64F5-4925-8163-E77409C45F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3174725-64F5-4925-8163-E77409C45F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
