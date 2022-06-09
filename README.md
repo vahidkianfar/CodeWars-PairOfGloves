@@ -8,7 +8,10 @@ Given an array describing the color of each glove, return the number of pairs yo
 Examples:
 
 input = ["red", "green", "red", "blue", "blue"]
+
 result = 2 (1 red pair + 1 blue pair)
 
+
 input = ["red", "red", "red", "red", "red", "red"]
+
 result = 3 (3 red pairs)
